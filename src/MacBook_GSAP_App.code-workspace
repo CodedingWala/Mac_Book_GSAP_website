@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "MacBook_GSAP_App",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../../../Downloads/apple-macbook_public/public"
+		}
+	],
+	"settings": {}
+}
